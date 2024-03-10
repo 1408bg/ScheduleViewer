@@ -1,3 +1,4 @@
+https://1408bg.notion.site/ScheduleViewer-49647a9b5b54424981bba98b4a9ae682
 # [ScheduleViewer]
 **Made by**
 - b_g(양병건)
